@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Command.h
+Reciever.h
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Reciever.h
+
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/CommandPatternTest.cpp
+Command.h
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Command.h
+Invoker.h
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Invoker.h
+
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Invoker.h
+Command.h
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Command.h
+
+/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Reciever.h
+

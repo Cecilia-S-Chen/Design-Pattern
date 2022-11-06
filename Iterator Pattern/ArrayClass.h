@@ -1,0 +1,8 @@
+//
+// Created by shuo chen on 2023/2/24.
+//
+
+#ifndef DESIGN_PATTERN_ARRAYCLASS_H
+#define DESIGN_PATTERN_ARRAYCLASS_H
+
+#endif //DESIGN_PATTERN_ARRAYCLASS_H

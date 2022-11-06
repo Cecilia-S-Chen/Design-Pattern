@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shuochen/学习/编程/Design-Pattern/Template/Base Class.h
+iostream
+-
+
+/Users/shuochen/学习/编程/Design-Pattern/Template/Sub Class.h
+Base Class.h
+/Users/shuochen/学习/编程/Design-Pattern/Template/Base Class.h
+
+/Users/shuochen/学习/编程/Design-Pattern/Template/Template Pattern Test.cpp
+Sub Class.h
+/Users/shuochen/学习/编程/Design-Pattern/Template/Sub Class.h
+

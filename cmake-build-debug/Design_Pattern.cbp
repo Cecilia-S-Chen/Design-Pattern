@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Design_Pattern"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main7">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main7"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main7/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main7/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main6">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main6"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main6/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main6/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main5">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main5"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main5/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main5/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main8">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main8"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main8/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main8/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main4">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main4/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main3">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main3/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main9">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main9"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main9/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main9/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main2">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main2/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main1">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main1/fast">
+				<Option output="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/main1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 main1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuochen/学习/编程/Design-Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Adapter Pattern/Adapter.cpp">
+			<Option target="main7"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Adapter Pattern/Adapter.h">
+			<Option target="main7"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Adapter Pattern/Facade.cpp">
+			<Option target="main8"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Adapter Pattern/Facade.h">
+			<Option target="main8"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Command.cpp">
+			<Option target="main6"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Command.h">
+			<Option target="main6"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/CommandPatternTest.cpp">
+			<Option target="main6"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Invoker.cpp">
+			<Option target="main6"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Invoker.h">
+			<Option target="main6"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Reciever.cpp">
+			<Option target="main6"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Command Pattern/Reciever.h">
+			<Option target="main6"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Decorator Pattern/Decorator Pattern.cpp">
+			<Option target="main3"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Factory Pattern/Factory Method.cpp">
+			<Option target="main4"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Factory Pattern/Factory Method.h">
+			<Option target="main4"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Factory Pattern/Ingredient.h">
+			<Option target="main4"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Observer Pattern/Abstract Class.h">
+			<Option target="main2"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Observer Pattern/Concrete Class.cpp">
+			<Option target="main2"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Observer Pattern/Concrete Class.h">
+			<Option target="main2"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Observer Pattern/Observer Pattern Project.cpp">
+			<Option target="main2"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Singleton Pattern/Hungry And Lazy.cpp">
+			<Option target="main5"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Singleton Pattern/Hungry And Lazy.h">
+			<Option target="main5"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Stratege Pattern/Strategy Patterner.cpp">
+			<Option target="main1"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Template/Base Class.h">
+			<Option target="main9"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Template/Sub Class.h">
+			<Option target="main9"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/Template/Template Pattern Test.cpp">
+			<Option target="main9"/>
+		</Unit>
+		<Unit filename="/Users/shuochen/学习/编程/Design-Pattern/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

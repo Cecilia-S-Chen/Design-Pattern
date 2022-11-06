@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shuochen/学习/编程/Design-Pattern/Adapter Pattern/Facade.cpp
+iostream
+-
+Facade.h
+/Users/shuochen/学习/编程/Design-Pattern/Adapter Pattern/Facade.h
+
+/Users/shuochen/学习/编程/Design-Pattern/Adapter Pattern/Facade.h
+string
+-
+
